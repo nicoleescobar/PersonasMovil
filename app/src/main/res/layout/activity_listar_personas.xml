@@ -18,7 +18,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/numero"
-            android:textAlignment="center"
+            android:textAlignment="viewStart"
             android:textAppearance="@style/TextAppearance.AppCompat.SearchResult.Title"
             android:textSize="18sp" />
 
@@ -27,7 +27,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/cc"
-            android:textAlignment="center"
+            android:textAlignment="viewStart"
             android:textAppearance="@style/TextAppearance.AppCompat.SearchResult.Title"
             android:textSize="18sp" />
 
@@ -36,7 +36,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/nombre"
-            android:textAlignment="center"
+            android:textAlignment="viewStart"
             android:textAppearance="@style/TextAppearance.AppCompat.SearchResult.Title"
             android:textSize="18sp" />
 
@@ -45,7 +45,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/apellido"
-            android:textAlignment="center"
+            android:textAlignment="viewStart"
             android:textAppearance="@style/TextAppearance.AppCompat.SearchResult.Title"
             android:textSize="18sp" />
     </TableRow>
